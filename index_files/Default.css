@@ -1,0 +1,365 @@
+/*
+ * $History: default.css $
+ * 
+ * *****************  Version 9  *****************
+ * User: Ronald       Date: 22/03/12   Time: 16:05
+ * Updated in $/comato-root/comato-v3/Front/wwwroot/intergems-claes/Css/sub
+ * 
+ * *****************  Version 8  *****************
+ * User: Ronald       Date: 4/07/08    Time: 14:36
+ * Updated in $/comato-v3/front/wwwroot/intergems-claes/Css/sub
+ * 
+ * *****************  Version 7  *****************
+ * User: Ronald       Date: 4/07/08    Time: 13:52
+ * Updated in $/comato-v3/front/wwwroot/intergems-claes/Css/sub
+ * 
+ * *****************  Version 6  *****************
+ * User: Ronald       Date: 19/11/07   Time: 18:05
+ * Updated in $/comato-v3/front/wwwroot/intergems-claes/Css/sub
+ * 
+ * *****************  Version 5  *****************
+ * User: Ronald       Date: 9/11/05    Time: 12:05
+ * Updated in $/comato-v3/front/wwwroot/intergems-claes/Css/sub
+ * 
+ * *****************  Version 4  *****************
+ * User: Ronald       Date: 9/11/05    Time: 12:04
+ * Updated in $/comato-v3/front/wwwroot/intergems-claes/Css/sub
+ * 
+ * *****************  Version 3  *****************
+ * User: Ronald       Date: 2/11/04    Time: 11:51
+ * Updated in $/comato-v3/front/wwwroot/intergems-claes/Css/sub
+ */
+
+
+/*EDITOR STYLES*/
+/*
+.intro1 {font-style:italic;}
+*/
+/*SUBTITLE STYLES*/
+/*
+.subtitle1 {
+	display:block;
+	margin:0;
+	padding:0 0 5px 0;	
+	text-align:left;
+	font-family:Georgia, "Times New Roman", Times, serif;
+	font-weight:bold;
+	font-size:12px;
+	color:#4B4B48;
+	line-height:14px;
+}
+
+.subtitle2 {
+	display:block;
+	margin:0;
+	padding:0 0 5px 0;	
+	text-align:left;
+	font-family:Georgia, "Times New Roman", Times, serif;
+	font-weight:bold;
+	font-size:11px;
+	color:#4B4B48;
+	line-height:13px;
+}
+
+.subtitle3 {
+	display:block;
+	margin:0;
+	padding:0 0 5px 0;	
+	text-align:left;
+	font-family:Georgia, "Times New Roman", Times, serif;
+	font-weight:bold;
+	font-size:10px;	
+	color:#4B4B48;
+	line-height:12px;
+}
+*/
+/*HIGHLIGHT STYLES*/
+/*
+.highlight1 {background-color:#EDD5AE;}
+*/
+/*LEGAL STYLES*/
+/*
+.legal1 {
+	display:block;
+	margin:0;
+	padding:0 0 5px 0;
+	text-align:left;
+	font-family:Georgia, "Times New Roman", Times, serif;
+	font-size:9px;	
+	color:#4B4B48;
+	line-height:12px;
+}
+*/
+/*CONTENT IMAGE STYLES*/
+/*
+.CenterCol .ContentBlock img.contentImage {
+	margin:0;
+	padding:3px 8px 8px 3px;
+	border:0;
+}
+
+.CenterCol .ContentBlock a img.contentImage {
+	border:0;
+}
+*/
+/*DEFAULT TABLE STYLES*/
+
+/*style1*/
+
+/*
+
+.TableA {
+	font-family:Arial, Helvetica, sans-serif;
+	margin:0;
+	padding:0;
+	font-size:11px;
+	line-height:13px;
+	clear:both;
+	border-top:1px solid #AFAEA7;
+	border-left:1px solid #AFAEA7;
+	border-bottom:0;
+	border-right:0;
+}
+
+.TableA tr td {
+	padding:5px 0 5px 7px;
+	border-top:0;
+	border-right:1px solid #AFAEA7;
+	border-bottom:1px solid #AFAEA7;
+	border-left:0;
+	text-align:left;
+}
+
+.TableA tr.TableTitleA {
+	font-family:Arial, Helvetica, sans-serif;
+	font-size:11px;
+	font-weight:bold;
+	line-height:13px;
+	color:#fff;
+	background:#AFAEA7;
+	text-align:left;
+	text-transform:uppercase;
+}
+
+.TableA tr.TableHeaderA, .TableA td.TableHeaderA  {
+	font-family:Arial, Helvetica, sans-serif;
+	color:#000;
+	font-size:11px;
+	line-height:13px;
+	background:#DFDDDD;
+}
+
+.TableA tr.TableHeaderA td.TableDataA {
+	font-family:Arial, Helvetica, sans-serif;
+	margin:0;
+	padding:7px;
+}
+
+.TableA tr.TableDataA {
+	font-family:Arial, Helvetica, sans-serif;
+	color:#000;
+	font-size:11px;
+	line-height:13px;
+	background-color:transparent;
+}
+
+.TableA tr.TableDataA td.TableDataA {
+	font-family:Verdana, Arial, Helvetica, sans-serif;
+	margin:0;
+	padding:7px;
+	background-color:transparent;
+	font-size:10px;
+	line-height:12px;
+}
+
+.TableCaptionA {
+	display:block;
+	font-family:Arial, Helvetica, sans-serif;
+	margin:0;
+	padding:7px 0 0 0;
+	font-size:10px;	
+	line-height:12px;
+	color:#000;
+	clear:both;
+}
+
+*/
+
+/*style2*/
+/*
+.TableB {
+	font-family:Arial, Helvetica, sans-serif;
+	margin:0;
+	padding:0;
+	font-size:11px;
+	line-height:13px;
+	clear:both;
+	border-top:1px solid #AFAEA7;
+	border-left:1px solid #AFAEA7;
+	border-bottom:0;
+	border-right:0;
+}
+
+.TableB tr td {
+	padding:5px 0 5px 7px;
+	border-top:0;
+	border-right:1px solid #AFAEA7;
+	border-bottom:1px solid #AFAEA7;
+	border-left:0;
+	text-align:left;
+}
+
+.TableB tr.TableTitleB {
+	font-family:Arial, Helvetica, sans-serif;
+	font-size:11px;
+	font-weight:bold;
+	line-height:13px;
+	color:#000;
+	text-align:left;
+	text-transform:uppercase;
+}
+
+.TableB tr.TableHeaderB, .TableB td.TableHeaderB  {
+	font-family:Arial, Helvetica, sans-serif;
+	color:#000;
+	font-size:11px;
+	line-height:13px;
+	background:#DFDDDD;
+}
+
+.TableB tr.TableHeaderB td.TableDataB {
+	font-family:Arial, Helvetica, sans-serif;
+	margin:0;
+	padding:7px;
+}
+
+.TableB tr.TableDataB {
+	font-family:Arial, Helvetica, sans-serif;
+	color:#000;
+	font-size:11px;
+	line-height:13px;
+	background-color:transparent;
+}
+
+.TableB tr.TableDataB td.TableDataB {
+	font-family:Verdana, Arial, Helvetica, sans-serif;
+	margin:0;
+	padding:7px;
+	background-color:transparent;
+	font-size:10px;
+	line-height:12px;
+}
+
+.TableCaptionB {
+	display:block;
+	font-family:Arial, Helvetica, sans-serif;
+	margin:0;
+	padding:7px 0 0 0;
+	font-size:10px;	
+	line-height:12px;
+	color:#000;
+	clear:both;
+}
+*/
+/*style3*/
+/*
+.TableC {
+	font-family:Arial, Helvetica, sans-serif;
+	margin:0;
+	padding:0;
+	font-size:11px;
+	line-height:13px;
+	clear:both;
+	border-top:1px solid #000;
+	border-left:1px solid #000;
+	border-bottom:0;
+	border-right:0;
+}
+
+.TableC tr td {
+	padding:7px 0 7px 7px;
+	border-top:0;
+	border-right:1px solid #000;
+	border-bottom:1px solid #000;
+	border-left:0;
+	text-align:left;
+}
+
+.TableC tr.TableTitleC {
+	font-family:Arial, Helvetica, sans-serif;
+	font-size:11px;
+	font-weight:bold;
+	line-height:13px;
+	color:#000;
+	text-align:left;
+	text-transform:uppercase;
+}
+
+.TableC tr.TableHeaderC, .TableC td.TableHeaderC  {
+	font-family:Arial, Helvetica, sans-serif;
+	color:#000;
+	font-size:11px;
+	line-height:13px;
+}
+
+.TableC tr.TableHeaderC td.TableDataC {
+	font-family:Arial, Helvetica, sans-serif;
+	margin:0;
+	padding:7px;
+}
+
+.TableC tr.TableDataC {
+	font-family:Arial, Helvetica, sans-serif;
+	color:#000;
+	font-size:11px;
+	line-height:13px;
+	background-color:transparent;
+}
+
+.TableC tr.TableDataC td.TableDataC {
+	font-family:Verdana, Arial, Helvetica, sans-serif;
+	margin:0;
+	padding:7px;
+	background-color:transparent;
+	font-size:10px;
+	line-height:12px;
+}
+
+.TableCaptionC {
+	display:block;
+	font-family:Arial, Helvetica, sans-serif;
+	margin:0;
+	padding:7px 0 0 0;
+	font-size:10px;	
+	line-height:12px;
+	color:#000;
+	clear:both;
+}
+*/
+/*E3DDDC*/
+/*SEARCHRESULTS*/
+/*.searchresults {margin:0;padding:14px;font-family:Arial, Helvetica, sans-serif;background:transparent;border:1px solid #AFAEA3;clear:both;}
+.resultsamount {display:block;margin:0 0 0 0;padding:14px;font-size:13px;color:#333;background:transparent;border:1px solid #AFAEA3;clear:both;}
+.resultsamount strong {color:#2d2d2d;}
+.resultsdaterange {display:block;margin:0 0 14px 0;padding:14px;font-size:13px;	color:#333;}
+.resultsdaterange:first-letter {text-transform:uppercase;}
+.resultsdaterange strong {color:#2d2d2d;}
+.searchresults ul {margin:14px 14px 14px 38px;padding:0;list-style-type:decimal-leading-zero;}
+.searchresults ul li {margin:0;padding:0 0 14px 0;border-bottom:1px dotted #bbb;}
+.searchresults h1 {margin:21px 0 14px 0;padding:0;font-size:14px;line-height:16px;text-transform:uppercase;letter-spacing:0.1em;font-weight:normal;}
+.searchresults h3 {margin:14px 0 7px 0;padding:0;font-size:12px;line-height:14px;}
+.searchresults h3 a {color:#2d2d2d;}
+.searchresults .teaser {color:#4d4d4d;}
+.searchresults .date {margin:0 0 3px 0;padding:0;letter-spacing:0.07em;font-weight:bold;color:#333;}
+.searchresults .score {margin:0 0 7px 0;padding:0;font-weight:bold;color:#990000;}
+.searchresults .context {font-size:12px;line-height:14px;}
+.searchresults .context b {color:#3d3d3d;border-bottom:1px dotted #990000;background-color:transparent;}
+*/
+/*advanced searchbox*/
+/*
+.advancedsearchbox {margin:0 0 14px 0;padding:7px 7px 14px 7px;border:1px solid #bbb;}
+.advancedsearchbox .form {margin:0;padding:2px 0 2px 3px;font-size:12px;border:1px solid #AFAEA3;background-color:#fefefe;width:170px;}
+.advancedsearchbox .searchelement {margin:0;padding:10px 14px;background-color:transparent;border-bottom:1px dotted #AFAEA3;}
+.advancedsearchbox .label {margin:0;padding:0 0 7px 0;font-weight:bold;}
+.advancedsearchbox #searchextshow a, .advancedsearchbox #searchextviewclose a {text-decoration:underline;color:#2d2d2d;}
+*/
